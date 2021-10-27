@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![](https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 <p align="left">
-  <a href="https://github.com/mikhailsidorov" style="display:flex;">
-    <img height="180em" style="margin-right:5px" src="https://github-readme-stats.vercel.app/api?username=mikhailsidorov&layout=compact&count_private=true&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikhailsidorov&layout=compact&count_private=true&show_icons=true"/>
+  <a href="https://github.com/mikhailsidorov">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mikhailsidorov&layout=compact&count_private=true&show_icons=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikhailsidorov&layout=compact&count_private=true&show_icons=true"/>
   </a>
 </p>
