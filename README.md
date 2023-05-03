@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/mikhailsidorov">
-    <img height="170em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=mikhailsidorov&layout=compact&count_private=true&show_icons=true" />
-    <img height="170em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=mikhailsidorov&layout=compact&count_private=true&show_icons=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mikhailsidorov&layout=compact&count_private=true&show_icons=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikhailsidorov&layout=compact&count_private=true&show_icons=true"/>
   </a>
 </p>
+
+
+https://github-readme-stats.vercel.app
